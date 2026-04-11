@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Selene",
+    "origin": "Greek mythology",
+    "gender": "Female",
+    "meaning": "Goddess of the Moon"
+  },
+  {
+    "name": "Artemis",
+    "origin": "Greek mythology",
+    "gender": "Female",
+    "meaning": "Goddess of the hunt, associated with the Moon"
+  },
+  {
+    "name": "Chandra",
+    "origin": "Hindu mythology (India)",
+    "gender": "Male",
+    "meaning": "Moon god, symbol of beauty and night"
+  },
+  {
+    "name": "Tsukuyomi",
+    "origin": "Japanese mythology",
+    "gender": "Male",
+    "meaning": "Moon god, ruler of the night"
+  },
+  {
+    "name": "Khonsu",
+    "origin": "Egyptian mythology",
+    "gender": "Male",
+    "meaning": "God of the Moon and time"
+  },
+  {
+    "name": "Ix Chel",
+    "origin": "Mayan mythology",
+    "gender": "Female",
+    "meaning": "Moon goddess, associated with fertility and medicine"
+  },
+  {
+    "name": "Hecate",
+    "origin": "Greek mythology",
+    "gender": "Female",
+    "meaning": "Goddess of magic, crossroads, and the Moon"
+  },
+  {
+    "name": "Máni",
+    "origin": "Norse mythology",
+    "gender": "Male",
+    "meaning": "Personification of the Moon"
+  },
+  {
+    "name": "Tecciztecatl",
+    "origin": "Aztec mythology",
+    "gender": "Male",
+    "meaning": "Moon god, associated with sacrifice"
+  },
+  {
+    "name": "Chang’e",
+    "origin": "Chinese mythology",
+    "gender": "Female",
+    "meaning": "Moon goddess who lives on the Moon after drinking an elixir of immortality"
+  },
+  {
+    "name": "Rhiannon",
+    "origin": "Welsh mythology",
+    "gender": "Female",
+    "meaning": "Moon goddess, associated with horses and sovereignty"
+  },
+  {
+    "name": "Sin",
+    "origin": "Mesopotamian mythology (Sumerian/Akkadian)",
+    "gender": "Male",
+    "meaning": "God of the Moon, wisdom, and calendars"
+  },
+  {
+    "name": "Arianrhod",
+    "origin": "Celtic mythology",
+    "gender": "Female",
+    "meaning": "Moon goddess, associated with fertility and rebirth"
+  },
+  {
+    "name": "Metztli",
+    "origin": "Aztec mythology",
+    "gender": "Male/Female (varies)",
+    "meaning": "Deity of the Moon and night"
+  },
+  {
+    "name": "Yue",
+    "origin": "Chinese culture",
+    "gender": "Neutral",
+    "meaning": "Literal word for 'Moon'"
+  },
+  {
+    "name": "Hina",
+    "origin": "Polynesian mythology (Hawaii, Tahiti)",
+    "gender": "Female",
+    "meaning": "Moon goddess, associated with beauty and love"
+  },
+  {
+    "name": "Rona",
+    "origin": "Maori mythology (New Zealand)",
+    "gender": "Female",
+    "meaning": "Woman who lives on the Moon after being taken there"
+  },
+  {
+    "name": "Mawu",
+    "origin": "West African mythology (Fon, Dahomey)",
+    "gender": "Female",
+    "meaning": "Moon goddess, associated with motherhood and fertility"
+  },
+  {
+    "name": "Thoth",
+    "origin": "Egyptian mythology",
+    "gender": "Male",
+    "meaning": "God of wisdom, writing, and the Moon"
+  },
+  {
+    "name": "Jaci",
+    "origin": "Tupi-Guarani mythology (Brazil)",
+    "gender": "Female",
+    "meaning": "Moon goddess, protector of lovers"
+  },
+  {
+    "name": "Kuu",
+    "origin": "Finnish mythology",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon', personified in folklore"
+  },
+  {
+    "name": "Meztli",
+    "origin": "Aztec mythology",
+    "gender": "Neutral",
+    "meaning": "Another name for the Moon deity, associated with night"
+  },
+  {
+    "name": "Coyolxauhqui",
+    "origin": "Aztec mythology",
+    "gender": "Female",
+    "meaning": "Moon goddess, depicted as a dismembered warrior"
+  },
+  {
+    "name": "Aylin",
+    "origin": "Turkish culture",
+    "gender": "Female",
+    "meaning": "Name meaning 'moonlight'"
+  },
+  {
+    "name": "Indu",
+    "origin": "Sanskrit (India)",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon', used in poetry and names"
+  },
+  {
+    "name": "Badru",
+    "origin": "Swahili culture (East Africa)",
+    "gender": "Male",
+    "meaning": "Born during the full Moon"
+  },
+  {
+    "name": "Yemaya",
+    "origin": "Yoruba mythology (Nigeria)",
+    "gender": "Female",
+    "meaning": "Mother goddess, associated with the Moon and sea"
+  },
+  {
+    "name": "Chibi Tsuki",
+    "origin": "Japanese culture",
+    "gender": "Neutral",
+    "meaning": "Literally 'little moon'"
+  },
+  {
+    "name": "Luna",
+    "origin": "Roman mythology",
+    "gender": "Female",
+    "meaning": "Goddess of the Moon"
+  },
+  {
+    "name": "Marama",
+    "origin": "Polynesian mythology (Cook Islands)",
+    "gender": "Male",
+    "meaning": "Moon god, associated with cycles of time"
+  },
+  {
+    "name": "Mesyats",
+    "origin": "Slavic mythology",
+    "gender": "Male",
+    "meaning": "Personification of the Moon"
+  },
+  {
+    "name": "Lunitsa",
+    "origin": "Slavic folklore",
+    "gender": "Female",
+    "meaning": "Crescent moon symbol, protective for women"
+  },
+  {
+    "name": "Mēness",
+    "origin": "Latvian mythology",
+    "gender": "Male",
+    "meaning": "Moon god, associated with fertility and cycles"
+  },
+  {
+    "name": "Menulis",
+    "origin": "Lithuanian mythology",
+    "gender": "Male",
+    "meaning": "Moon god, linked to time and fate"
+  },
+  {
+    "name": "Hanwi",
+    "origin": "Lakota mythology (Native American)",
+    "gender": "Female",
+    "meaning": "Moon goddess, protector of the night"
+  },
+  {
+    "name": "Ahki",
+    "origin": "Ojibwe culture (Native American)",
+    "gender": "Neutral",
+    "meaning": "Word for 'Earth', often paired with lunar cycles"
+  },
+  {
+    "name": "Tahu",
+    "origin": "Cherokee mythology (Native American)",
+    "gender": "Neutral",
+    "meaning": "Moon spirit guiding seasonal rhythms"
+  },
+  {
+    "name": "Alignak",
+    "origin": "Inuit mythology",
+    "gender": "Male",
+    "meaning": "Moon god, also associated with tides and weather"
+  },
+  {
+    "name": "Igaluk",
+    "origin": "Inuit mythology",
+    "gender": "Male",
+    "meaning": "Brother of the Sun goddess, ruler of the Moon"
+  },
+  {
+    "name": "Tsukiko",
+    "origin": "Japanese culture",
+    "gender": "Female",
+    "meaning": "Name meaning 'child of the Moon'"
+  },
+  {
+    "name": "Mahina",
+    "origin": "Hawaiian culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon'"
+  },
+  {
+    "name": "Bulan",
+    "origin": "Malay/Indonesian culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon'"
+  },
+  {
+    "name": "Soma",
+    "origin": "Vedic mythology (India)",
+    "gender": "Male",
+    "meaning": "Deity linked to the Moon and sacred drink"
+  },
+  {
+    "name": "Chandni",
+    "origin": "Hindi/Urdu culture",
+    "gender": "Female",
+    "meaning": "Name meaning 'moonlight'"
+  },
+  {
+    "name": "Yarikh",
+    "origin": "Canaanite mythology",
+    "gender": "Male",
+    "meaning": "Moon god, associated with fertility and protection"
+  },
+  {
+    "name": "Al-Qamar",
+    "origin": "Arabic culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon'"
+  },
+  {
+    "name": "Hilal",
+    "origin": "Arabic culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'crescent moon'"
+  },
+  {
+    "name": "Shahrivar",
+    "origin": "Persian culture",
+    "gender": "Male",
+    "meaning": "Linked to lunar cycles"
+  },
+  {
+    "name": "Mama Kenga",
+    "origin": "Bantu folklore",
+    "gender": "Female",
+    "meaning": "Moon goddess"
+  },
+  {
+    "name": "Nanna-Suen",
+    "origin": "Akkadian/Babylonian mythology",
+    "gender": "Male",
+    "meaning": "Moon god, continuation of Sin"
+  },
+  {
+    "name": "Oba Oṣupa",
+    "origin": "Yoruba culture",
+    "gender": "Male",
+    "meaning": "King of the Moon"
+  },
+  {
+    "name": "Chia",
+    "origin": "Muisca mythology (Colombia)",
+    "gender": "Female",
+    "meaning": "Moon goddess"
+  },
+  {
+    "name": "Mama Quilla",
+    "origin": "Inca mythology (Peru)",
+    "gender": "Female",
+    "meaning": "Moon goddess, protector of women"
+  },
+  {
+    "name": "Killa",
+    "origin": "Quechua culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon'"
+  },
+  {
+    "name": "Aylana",
+    "origin": "Turkish culture",
+    "gender": "Female",
+    "meaning": "Name meaning 'moon halo'"
+  },
+  {
+    "name": "Mond",
+    "origin": "German culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon'"
+  },
+  {
+    "name": "Selenia",
+    "origin": "Modern Greek culture",
+    "gender": "Female",
+    "meaning": "Derived name meaning 'of the Moon'"
+  },
+  {
+    "name": "Tsukimi",
+    "origin": "Japanese culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'moon viewing' festival"
+  },
+  {
+    "name": "Phoebe",
+    "origin": "Greek mythology",
+    "gender": "Female",
+    "meaning": "Titaness associated with the Moon"
+  },
+  {
+    "name": "Ilargi",
+    "origin": "Basque mythology",
+    "gender": "Neutral",
+    "meaning": "Moon deity"
+  },
+  {
+    "name": "Hinauri",
+    "origin": "Polynesian mythology (Tahiti)",
+    "gender": "Female",
+    "meaning": "Moon goddess"
+  },
+  {
+    "name": "Mahina Ahi",
+    "origin": "Hawaiian culture",
+    "gender": "Neutral",
+    "meaning": "Moon fire"
+  },
+  {
+    "name": "Rona-i-te-Maru",
+    "origin": "Maori mythology",
+    "gender": "Female",
+    "meaning": "Woman taken to the Moon"
+  },
+  {
+    "name": "Zvaigzde",
+    "origin": "Lithuanian culture",
+    "gender": "Female",
+    "meaning": "Star, often paired with Moon"
+  },
+  {
+    "name": "Saule ir Mēness",
+    "origin": "Latvian mythology",
+    "gender": "Neutral",
+    "meaning": "Sun and Moon myth pairing"
+  },
+  {
+    "name": "Selina",
+    "origin": "Modern culture (Greek-derived)",
+    "gender": "Female",
+    "meaning": "Adaptation of Selene"
+  },
+  {
+    "name": "Lunette",
+    "origin": "French culture",
+    "gender": "Female",
+    "meaning": "Little moon"
+  },
+  {
+    "name": "Moonika",
+    "origin": "Estonian culture",
+    "gender": "Female",
+    "meaning": "Given name derived from Moon"
+  },
+  {
+    "name": "Ayumi Tsuki",
+    "origin": "Japanese culture",
+    "gender": "Female",
+    "meaning": "Walk of the Moon"
+  },
+  {
+    "name": "Moona",
+    "origin": "Finnish culture",
+    "gender": "Female",
+    "meaning": "Given name meaning Moon"
+  },
+  {
+    "name": "Chandra Devi",
+    "origin": "Hindu mythology (India)",
+    "gender": "Female",
+    "meaning": "Feminine form of Chandra"
+  },
+  {
+    "name": "Nanahuatl",
+    "origin": "Aztec mythology",
+    "gender": "Male",
+    "meaning": "Linked to lunar myths"
+  },
+  {
+    "name": "Aylana Noor",
+    "origin": "Turkish-Persian culture",
+    "gender": "Female",
+    "meaning": "Moon halo light"
+  },
+  {
+    "name": "Silvery Moon",
+    "origin": "English poetic epithet",
+    "gender": "Neutral",
+    "meaning": "Poetic name for the Moon"
+  },
+  {
+    "name": "Tsukihime",
+    "origin": "Japanese culture",
+    "gender": "Female",
+    "meaning": "Moon princess"
+  },
+  {
+    "name": "Tarqeq",
+    "origin": "Inuit mythology",
+    "gender": "Male",
+    "meaning": "Moon spirit, associated with hunting"
+  },
+  {
+    "name": "Aglibol",
+    "origin": "Palmyrene (Syrian) mythology",
+    "gender": "Male",
+    "meaning": "Moon god, protector of caravans"
+  },
+  {
+    "name": "Metztli",
+    "origin": "Aztec mythology",
+    "gender": "Neutral",
+    "meaning": "Deity of the Moon and night"
+  },
+  {
+    "name": "Nokomis",
+    "origin": "Ojibwe mythology (Native American)",
+    "gender": "Female",
+    "meaning": "Grandmother figure tied to the Moon"
+  },
+  {
+    "name": "Obatala Oṣupa",
+    "origin": "Yoruba mythology",
+    "gender": "Male",
+    "meaning": "Moon aspect of Obatala, deity of wisdom"
+  },
+  {
+    "name": "Rama-Soma",
+    "origin": "Vedic mythology (India)",
+    "gender": "Male",
+    "meaning": "Moon deity linked to sacred Soma ritual"
+  },
+  {
+    "name": "Tsukiyomi-no-Mikoto",
+    "origin": "Japanese mythology",
+    "gender": "Male",
+    "meaning": "Formal name of Tsukuyomi, Moon god"
+  },
+  {
+    "name": "Chandrakanta",
+    "origin": "Indian culture",
+    "gender": "Female",
+    "meaning": "Name meaning 'beloved of the Moon'"
+  },
+  {
+    "name": "Marici",
+    "origin": "Buddhist tradition",
+    "gender": "Female",
+    "meaning": "Goddess associated with light and sometimes the Moon"
+  },
+  {
+    "name": "Ilmatar Kuu",
+    "origin": "Finnish mythology",
+    "gender": "Female",
+    "meaning": "Moon aspect of Ilmatar, goddess of creation"
+  },
+  {
+    "name": "Yue Lao",
+    "origin": "Chinese folklore",
+    "gender": "Male",
+    "meaning": "Old Man under the Moon, god of love and marriage"
+  },
+  {
+    "name": "Sanda",
+    "origin": "Bantu culture",
+    "gender": "Female",
+    "meaning": "Moon goddess linked to fertility"
+  },
+  {
+    "name": "Kuuvalotar",
+    "origin": "Finnish folklore",
+    "gender": "Female",
+    "meaning": "Spirit maiden of the Moon"
+  },
+  {
+    "name": "Mwezi",
+    "origin": "Swahili culture",
+    "gender": "Neutral",
+    "meaning": "Word for 'Moon'"
+  },
+  {
+    "name": "Tsukiyo",
+    "origin": "Japanese culture",
+    "gender": "Neutral",
+    "meaning": "Word meaning 'moonlit night'"
+  },
+  {
+    "name": "Khonsu-Ra",
+    "origin": "Egyptian mythology",
+    "gender": "Male",
+    "meaning": "Moon aspect of Ra, god of time"
+  },
+  {
+    "name": "Mawu-Lisa",
+    "origin": "Fon (West African) mythology",
+    "gender": "Female/Male",
+    "meaning": "Dual deity, Moon (Mawu) and Sun (Lisa)"
+  },
+  {
+    "name": "Tecciztecatl II",
+    "origin": "Aztec mythology",
+    "gender": "Male",
+    "meaning": "Variant of Moon god Tecciztecatl"
+  },
+  {
+    "name": "Hecate Selene",
+    "origin": "Greek mythology",
+    "gender": "Female",
+    "meaning": "Moon aspect of Hecate"
+  },
+  {
+    "name": "Oba Kuu",
+    "origin": "Yoruba culture",
+    "gender": "Male",
+    "meaning": "King of the Moon"
+  },
+  {
+    "name": "Chibi Hoshi Tsuki",
+    "origin": "Japanese culture",
+    "gender": "Neutral",
+    "meaning": "Little star moon"
+  },
+  {
+    "name": "Lunaria",
+    "origin": "Modern culture",
+    "gender": "Female",
+    "meaning": "Derived name meaning 'moon flower'"
+  },
+  {
+    "name": "Moonbeam",
+    "origin": "English poetic name",
+    "gender": "Neutral",
+    "meaning": "Poetic epithet for moonlight"
+  },
+  {
+    "name": "Aylinur",
+    "origin": "Turkish culture",
+    "gender": "Female",
+    "meaning": "Moonlight radiance"
+  },
+  {
+    "name": "Tsukihoshi",
+    "origin": "Japanese culture",
+    "gender": "Neutral",
+    "meaning": "Moon star"
+  },
+  {
+    "name": "Ilargi Handia",
+    "origin": "Basque mythology",
+    "gender": "Neutral",
+    "meaning": "Great Moon deity"
+  },
+  {
+    "name": "Phoebe Artemis",
+    "origin": "Greek mythology",
+    "gender": "Female",
+    "meaning": "Moon-linked Titaness and goddess"
+  },
+  {
+    "name": "Mwezi Mkuu",
+    "origin": "Swahili culture",
+    "gender": "Neutral",
+    "meaning": "Great Moon"
+  },
+  {
+    "name": "Chandra Shekhar",
+    "origin": "Hindu culture",
+    "gender": "Male",
+    "meaning": "Moon-crested, epithet of Shiva"
+  },
+  {
+    "name": "Selunara",
+    "origin": "Modern culture",
+    "gender": "Female",
+    "meaning": "Invented name blending Selene and Luna"
+  }
+]
